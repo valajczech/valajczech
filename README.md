@@ -3,10 +3,10 @@
 I am frontend developer based in Czech Republic and also a student of IT Technologies at [SPSOAFM](https://www.spsoafm.cz/).
 
 ## Preferred languages
-  - **HTML & CSS** _yeah I know what you think
+  - **HTML & CSS** _yeah I know what you think_
   - **javaScript & jQuery**
   - **C#**
-  _but I am also learning **Python** and  **Node.js**
+  _but I am also learning **Python** and  **Node.js**_
 
 ## Contacts _just in case_
   - **[Instagram](https://www.instagram.com/valaj_/)**
