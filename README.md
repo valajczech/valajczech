@@ -1,11 +1,8 @@
-### Hi there, my name is Jiří Vala and I am frontend developer based in Czech Republic.👋
-<br>
+# Hi there, I'm valajczech! 👋
+
+I am frontend developer based in Czech Republic and also a student of IT Technologies at [SPSOAFM](https://www.spsoafm.cz/).
 
 
 I know you don't give a damn about my stats, but here they are anyway:
-<br>
-<img align="center" alt="my github stats src="(https://github-readme-stats.vercel.app/api?username=valajczech"
-/>
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+[![valaczech's github stats](https://github-readme-stats.vercel.app/api?username=valajczech)](https://github.com/anuraghazra/github-readme-stats)
