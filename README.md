@@ -17,9 +17,9 @@ I am frontend developer based in Czech Republic and also a student of IT Technol
   - **[E-mail](mailto:jiri.vala11@gmail.com)**
 
 ## Projects I've contributed to
-  - ##[Stratocan](https://stratocan.eu/)
+  - **[Stratocan](https://stratocan.eu/)**
     - My high school [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry.
-  - ##[Orexin Econtech's Website](www.notexistingwebsite.com)
+  - **[Orexin Econtech's Website](www.notexistingwebsite.com)**
     - Link's not working because the website is not deployed yet. Mostly js scripting and HTML && CSS.
   
 
