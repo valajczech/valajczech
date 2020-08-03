@@ -24,6 +24,6 @@ I am frontend developer based in Czech Republic and also a student of IT Technol
   
 
 I know you don't give a damn about my stats, but here they are anyway:
-_(I know how GitHub works and how to code, I just don't contribute that much, just so you know_
+_(I know how GitHub works and how to code, I just don't commit and contribute that much)_
 
 [![valajczech's github stats](https://github-readme-stats.vercel.app/api?username=valajczech)](https://github.com/anuraghazra/github-readme-stats)
