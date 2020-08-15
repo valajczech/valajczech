@@ -1,4 +1,4 @@
-# Hi there, I'm valajczech! 👋
+# Hi there, I'm valaj! 👋
 
 I am frontend developer based in Czech Republic and also a student of IT Technologies at [SPSOAFM](https://www.spsoafm.cz/).
 
@@ -7,7 +7,7 @@ I am frontend developer based in Czech Republic and also a student of IT Technol
   - **JavaScript & jQuery**
   - **C#**
   
-  _but I am also learning **Python** and  **Node.js**_
+  _but I am also learning **Python** and  **Node.js** which really isn't a language but you know what I mean_
 
 ## Contacts _just in case_
   - **[Instagram](https://www.instagram.com/valaj_/)**
