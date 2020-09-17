@@ -1,13 +1,19 @@
 # Hi there, I'm valaj! 👋
 
-I am frontend developer based in Czech Republic and also a student of IT Technologies at [SPSOAFM](https://www.spsoafm.cz/).
+I am _Wanna-be-MEVN-stack_ developer based in Czech Republic and also a student of IT Technologies at [SPSOAFM](https://www.spsoafm.cz/).
 
-## Preferred languages
-  - **HTML & CSS** _yeah I know what you think_
-  - **JavaScript & jQuery**
-  - **C#**
+## Languages
+  - JavaScript
+  - C# 
+  - Python (ultra beginner)
   
-  _but I am also learning **Python** and  **Node.js** which really isn't a language but you know what I mean_
+## Technologies
+  - Node.js
+  - Vue.js
+  - Express.js
+  - MongoDB
+  
+  ..and onther fun stuff
 
 ## Contacts _just in case_
   - **[Instagram](https://www.instagram.com/valaj_/)**
@@ -20,10 +26,8 @@ I am frontend developer based in Czech Republic and also a student of IT Technol
   - **[Stratocan](https://stratocan.eu/)**
     - My high school [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry.
   - **[Orexin Econtech's Website](www.notexistingwebsite.com)**
-    - Link's not working because the website is not deployed yet. Mostly js scripting and HTML && CSS.
+    - {**NOT DEPLOYED**}
   
 
 I know you don't give a damn about my stats, but here they are anyway:
-_(I know how GitHub works and how to code, I just don't commit and contribute that much)_
-
 [![valajczech's github stats](https://github-readme-stats.vercel.app/api?username=valajczech)](https://github.com/anuraghazra/github-readme-stats)
