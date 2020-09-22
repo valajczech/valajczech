@@ -8,12 +8,12 @@ I am _Wanna-be-MEVN-stack_ developer based in Czech Republic and also a student 
   - Python (ultra beginner)
   
 ## Technologies
+  - MongoDB
   - Node.js
   - Vue.js
   - Express.js
-  - MongoDB
-  
-  ..and onther fun stuff
+ 
+  ..and another fun stuff
 
 ## Contacts _just in case_
   - **[Instagram](https://www.instagram.com/valaj_/)**
