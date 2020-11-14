@@ -1,6 +1,13 @@
 # Hello there, I'm valaj! 👋
 
-I am _Wanna-be-MEVN-stack_ developer based in Czech Republic and also a student of IT Technologies at [SPSOAFM](https://www.spsoafm.cz/).
+I am mostly self-taught Full Stack developer
+
+- :pushpin: Czech Republic
+- :books: MEVN Stack (MongoDB, Express.js, Vue.js, Node.js)
+- :green_book: I am currently studying at [POJFM](https://pojfm.cz)
+- :construction_worker: I am currently working on [Orexin](https://github.com/Orexin) 
+
+
 
 ## :computer: Tech Stack
 
@@ -22,9 +29,14 @@ I am _Wanna-be-MEVN-stack_ developer based in Czech Republic and also a student 
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact" />  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact" alt="valajczech's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=valajczech&show_icons=true&include_all_commits=true&hide=issues,prs" alt="Anurag's github stats" />
+</a>
 
-[![valajczech's github stats](https://github-readme-stats.vercel.app/api?username=valajczech)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :telephone_receiver: Contact me!
   - **[Instagram](https://www.instagram.com/valaj_/)**
@@ -37,7 +49,7 @@ I am _Wanna-be-MEVN-stack_ developer based in Czech Republic and also a student 
   - **[Stratocan](https://stratocan.eu/)**
     - My high school [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry.
   - **[Orexin Econtech's Website](www.notexistingwebsite.com)**
-    - {**NOT DEPLOYED**}
+    - **NOT DEPLOYED**
   
 
 
