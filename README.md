@@ -24,6 +24,8 @@ I am _Wanna-be-MEVN-stack_ developer based in Czech Republic and also a student 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact" />  
 
+[![valajczech's github stats](https://github-readme-stats.vercel.app/api?username=valajczech)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :telephone_receiver: Contact me!
   - **[Instagram](https://www.instagram.com/valaj_/)**
   - **[Telegram](https://t.me/valajczech)**
@@ -38,5 +40,5 @@ I am _Wanna-be-MEVN-stack_ developer based in Czech Republic and also a student 
     - {**NOT DEPLOYED**}
   
 
-I know you don't give a damn about my stats, but here they are anyway:
-[![valajczech's github stats](https://github-readme-stats.vercel.app/api?username=valajczech)](https://github.com/anuraghazra/github-readme-stats)
+
+
