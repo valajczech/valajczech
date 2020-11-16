@@ -1,11 +1,11 @@
 # Hello there, I'm valaj! 👋
 
-I am mostly self-taught Full Stack developer
+I am mostly self-taught Full Stack web developer, but I am also interested in game development in Unity and Python automatization. Most of the time I use languages like javaScript and Python, but I also use C#, since it is main language used in my school.
 
 - :pushpin: Czech Republic
-- :books: MEVN Stack (MongoDB, Express.js, Vue.js, Node.js)
-- :green_book: I am currently studying at [POJFM](https://pojfm.cz)
-- :construction_worker: I am currently working on [Orexin](https://github.com/Orexin) 
+- :books: MEVN (MongoDB, Express.js, Vue.js, Node.js)
+- :mortar_board: I am a student of Information Technologies at [POJFM](https://pojfm.cz)
+- :construction_worker: Current project: [Orexin](https://github.com/Orexin) 
 
 
 
@@ -39,14 +39,14 @@ I am mostly self-taught Full Stack developer
 
 
 ## :telephone_receiver: Contact me!
-  - **[Instagram](https://www.instagram.com/valaj_/)**
-  - **[Telegram](https://t.me/valajczech)**
-  - **[Twitter](https://twitter.com/valaj_)**
-  - **[LinkedIn](https://www.linkedin.com/in/ji%C5%99%C3%AD-vala-b7261b1ab/)**
-  - **[E-mail](mailto:jiri.vala11@gmail.com)**
+  - :mailbox: **[Instagram](https://www.instagram.com/valaj_/)**
+  - :mailbox: **[Telegram](https://t.me/valajczech)**
+  - :mailbox: **[Twitter](https://twitter.com/valaj_)**
+  - :mailbox: **[LinkedIn](https://www.linkedin.com/in/ji%C5%99%C3%AD-vala-b7261b1ab/)**
+  - :mailbox: **[E-mail](mailto:jiri.vala11@gmail.com)**
 
 ## Projects I've contributed to
-  - **[Stratocan](https://stratocan.eu/)**
+  - **[Stratocan](https://stratocan.eu/)** :rocket:
     - My high school [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry.
   - **[Orexin Econtech's Website](www.notexistingwebsite.com)**
     - **NOT DEPLOYED**
