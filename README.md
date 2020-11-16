@@ -45,7 +45,7 @@ I am mostly self-taught Full Stack web developer, but I am also interested in ga
   - :mailbox: **[LinkedIn](https://www.linkedin.com/in/ji%C5%99%C3%AD-vala-b7261b1ab/)**
   - :mailbox: **[E-mail](mailto:jiri.vala11@gmail.com)**
 
-## Projects I've contributed to
+## :file_folder: Projects I've contributed to
   - **[Stratocan](https://stratocan.eu/)** :rocket:
     - My high school [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry.
   - **[Orexin Econtech's Website](www.notexistingwebsite.com)**
