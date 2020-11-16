@@ -1,6 +1,6 @@
 # Hello there, I'm valaj! 👋
 
-I am mostly self-taught Full Stack web developer, but I am also interested in game development in Unity and Python automatization. Most of the time I use languages like javaScript and Python, but I also use C#, since it is main language used in my school.
+I am mostly self-taught Full Stack web developer, but I am also interested in game development in Unity and Python automatization. Most of the time I use languages like JavaScript and Python, but I also use C#, since it is a main language used in my school.
 
 - :pushpin: Czech Republic
 - :books: MEVN (MongoDB, Express.js, Vue.js, Node.js)
@@ -47,7 +47,7 @@ I am mostly self-taught Full Stack web developer, but I am also interested in ga
 
 ## :file_folder: Projects I've contributed to
   - **[Stratocan](https://stratocan.eu/)** :rocket:
-    - My high school [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry.
+    - My highschool [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry, which you store and them analyze them in order to present some result to jury.
   - **[Orexin Econtech's Website](www.notexistingwebsite.com)**
     - **NOT DEPLOYED**
   
