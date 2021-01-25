@@ -4,8 +4,8 @@ I am mostly self-taught Full Stack web developer, but I am also interested in ga
 
 - :pushpin: Czech Republic
 - :books: MEVN (MongoDB, Express.js, Vue.js, Node.js)
-- :mortar_board: I am a student of Information Technologies at [POJFM](https://pojfm.cz)
-- :construction_worker: Current project: [Orexin](https://github.com/Orexin) 
+- :mortar_board: Information Technologies at [POJFM](https://pojfm.cz)
+- :construction_worker: [Orexin](https://github.com/Orexin) 
 
 
 
