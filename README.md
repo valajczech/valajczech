@@ -1,56 +1,72 @@
-# Hello there, I'm valaj! 👋
+<p style="margin: 0px 0px -5px 0px; padding-left: 5px; font-family: 'Open Sans'; font-style:italic"><strong>Jiří Vala | valajczech</strong></p> 
+<h1 style="margin: 0; font-family: 'Open Sans'">Hello there! 👋</h1>
 
-I am mostly self-taught Full Stack web developer, but I am also interested in game development in Unity and Python automatization. Most of the time I use languages like JavaScript and Python, but I also use C#, since it is a main language used in my school.
+📚 Student of Information Technologies at [POJFM](https:www.pojfm.cz)
+👨🏽‍💻 Learning full stack developer
 
-- :pushpin: Czech Republic
-- :books: MEVN (MongoDB, Express.js, Vue.js, Node.js)
-- :mortar_board: Information Technologies at [POJFM](https://pojfm.cz)
-- :construction_worker: [Orexin](https://github.com/Orexin) 
+<h3 style="text-align: center; font-family: 'Open Sans'">Techstack</h3>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px">
+  <div style="margin: 5px">
+    <a title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="React"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="scss"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="Python"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="GNU/Linux"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="Arch Linux ❤️"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="Git"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="GitHub"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a title="npm"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg"></a>
+  </div>
+</div>
 
-
-## :computer: Tech Stack
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-<a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="21px" height="21px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-<a href="https://expressjs.com/" title="Express"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="Express" width="21px" height="21px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
-<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-<a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
-<a href="https://babeljs.io/" title="Babel"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/babel.svg" alt="Babel" width="21px" height="21px"></a>
-<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
-<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact" alt="valajczech's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=valajczech&show_icons=true&include_all_commits=true&hide=issues,prs" alt="Anurag's github stats" />
-</a>
-
-
-## :telephone_receiver: Contact me!
-  - :mailbox: **[Instagram](https://www.instagram.com/valaj_/)**
-  - :mailbox: **[Telegram](https://t.me/valajczech)**
-  - :mailbox: **[Twitter](https://twitter.com/valaj_)**
-  - :mailbox: **[LinkedIn](https://www.linkedin.com/in/ji%C5%99%C3%AD-vala-b7261b1ab/)**
-  - :mailbox: **[E-mail](mailto:jiri.vala11@gmail.com)**
-
-## :file_folder: Projects I've contributed to
-  - **[Stratocan](https://stratocan.eu/)** :rocket:
-    - My highschool [CANSAT](https://www.esa.int/Education/CanSat) team, you have to basically drop a can-sized satelite from the sky and then measure basic telemetry, which you store and them analyze them in order to present some result to jury.
-  - **[Orexin](www.notexistingwebsite.com)**
-    - **NOT DEPLOYED**
-  
+<div style="display: flex; align-items: center; justify-content: center; width: 100%; flex-wrap: wrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact" alt="valajczech's github stats" />
+  </a>
+</div>
 
 
-
+<h3 style="text-align: center; font-family: 'Open Sans'">Find me here</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px">
+  <div style="margin: 5px">
+    <a href="mailto:jiri.vala11@gmail.com" title="Email"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a href="https://t.me/valajczech" title="Telegram"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a href="https://www.linkedin.com/in/ji%C5%99%C3%AD-vala-b7261b1ab/" title="LinkedIn"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a href="https://www.instagram.com/valaj_/" title="Instagram"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a href="https://www.reddit.com/user/valajczech" title="Reddit"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a href="https://open.spotify.com/user/tw8lbiizp441foprs5s0mftqb" title="Spotify"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a href="https://discordapp.com/users/valaj#3410" title="Discord"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"></a>
+  </div>
+  <div style="margin: 5px">
+    <a href="tel:+420774460131" title="Phone"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/phone.svg"></a>
+  </div>
+</div>
