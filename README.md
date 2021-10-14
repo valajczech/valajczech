@@ -35,5 +35,4 @@
     <a href="https://www.reddit.com/user/valajczech" title="Reddit"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg"></a>
     <a href="https://open.spotify.com/user/tw8lbiizp441foprs5s0mftqb" title="Spotify"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg"></a>
     <a href="https://discordapp.com/users/valaj#3410" title="Discord"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"></a>
-    <a href="tel:+420774460131" title="Phone"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/phone.svg"></a>
 </div>
