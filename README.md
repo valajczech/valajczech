@@ -9,6 +9,7 @@
 
 <div align="center" gap="5px">
     <a title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
+    <a title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"></a>
     <a title="React"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></a>
     <a title="scss"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg"></a>
     <a title="Python"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"></a>
