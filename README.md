@@ -1,9 +1,22 @@
-*__Jiří Vala | valajczech__* <br>
+<div align="center">
+<b>Hello there!</b> ✋🏽 </br>    
+My name is <i>Jiří | valajczech</i> and I am making webapps for a living.
 
-## Hello there! ✋🏽
+</div>
+
+<h3 align="center">You can find me here</h3>
+<div align="center">
+    <a href="mailto:jiri.vala11@gmail.com" title="Email"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg"></a>
+    <a href="https://t.me/valajczech" title="Telegram"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>
+    <a href="https://www.linkedin.com/in/ji%C5%99%C3%AD-vala-b7261b1ab/" title="LinkedIn"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a>
+    <a href="https://www.instagram.com/valaj_/" title="Instagram"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>
+    <a href="https://www.reddit.com/user/valajczech" title="Reddit"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg"></a>
+    <a href="https://open.spotify.com/user/tw8lbiizp441foprs5s0mftqb" title="Spotify"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg"></a>
+    <a href="https://discordapp.com/users/valaj#3410" title="Discord"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"></a>
+</div>  
 
 <h3 align="center">Techstack</h3>
-
+  
 <div align="center" gap="5px">
     <a title="JavaScript"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
     <a title="Typescript"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"></a>
@@ -24,13 +37,4 @@
 </div>
 
 
-<h3 align="center">Find me here</h3>
-<div align="center">
-    <a href="mailto:jiri.vala11@gmail.com" title="Email"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg"></a>
-    <a href="https://t.me/valajczech" title="Telegram"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"></a>
-    <a href="https://www.linkedin.com/in/ji%C5%99%C3%AD-vala-b7261b1ab/" title="LinkedIn"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a>
-    <a href="https://www.instagram.com/valaj_/" title="Instagram"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a>
-    <a href="https://www.reddit.com/user/valajczech" title="Reddit"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg"></a>
-    <a href="https://open.spotify.com/user/tw8lbiizp441foprs5s0mftqb" title="Spotify"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg"></a>
-    <a href="https://discordapp.com/users/valaj#3410" title="Discord"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"></a>
-</div>
+
