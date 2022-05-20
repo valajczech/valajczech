@@ -2,9 +2,6 @@
 
 ## Hello there! ✋🏽
 
-📚 Student of Information Technologies at [POJFM](https:www.pojfm.cz)  
-👨🏽‍💻 Learning full stack developer
-
 <h3 align="center">Techstack</h3>
 
 <div align="center" gap="5px">
@@ -22,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact&theme=tokyonight&hide_border=true" alt="valajczech's github stats" />
+    <img  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact&theme=tokyonight&hide_border=true&hide=TeX" alt="valajczech's github stats" />
   </a>
 </div>
 
