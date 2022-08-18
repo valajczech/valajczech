@@ -36,5 +36,8 @@ My name is <i>Jiří | valajczech</i> and I am making webapps for a living.
   </a>
 </div>
 
-
+<br/>
+<div align="center">
+ <p><i>I am currently more active on GitLab though.</i></p>
+</div>
 
