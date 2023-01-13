@@ -30,11 +30,12 @@ My name is <i>Jiří | valajczech</i> and I am making webapps for a living.
     <a title="npm"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg"></a>
 </div>
 
-<div align="center">
+
+<!--<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valajczech&layout=compact&theme=tokyonight&hide_border=true&hide=TeX" alt="valajczech's github stats" />
   </a>
-</div>
+</div>-->
 
 <br/>
 <div align="center">
