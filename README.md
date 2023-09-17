@@ -19,6 +19,10 @@ My name is <i>Jiří | valajczech</i> and I am making webapps for a living.
     <a href="https://discordapp.com/users/valaj#3410" title="Discord"><img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"></a>
 </div>  
 
+<div align="center">
+  <a href="https://calendly.com/valaj">Set a meeting with me</a>
+</div>
+
 <h3 align="center">Techstack</h3>
   
 <div align="center" gap="5px">
