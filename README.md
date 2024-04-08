@@ -1,8 +1,5 @@
 <div align="center">
 <b>Hello there!</b> ✋🏽 </br>    
-My name is <i>Jiří | valajczech</i> and I am making webapps for a living.
-<div align="center">
- <p><i>I am currently more active on GitLab.</i></p>
 </div>
 
 
